@@ -1,5 +1,4 @@
 # TensorFlow Core 1.13
-
 #### tf.RunOptions:A ProtocolMessage.
 #### tf.RunMetadata:A ProtocolMessage.
 #### tf.get_variable:Gets an existing variable with these parameters or create a new one.
